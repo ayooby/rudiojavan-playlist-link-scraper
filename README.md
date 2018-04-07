@@ -1,7 +1,7 @@
 
 # Rudio Javan playlist scraper
 
-Save [Radio-Javan's](https://www.radiojavan.com) playlist musics link in file using Rust lang.
+Save [Radio-Javan's](https://www.radiojavan.com) playlist musics link in a file using Rust lang.
 
 # Installation
 
