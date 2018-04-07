@@ -1,22 +1,23 @@
+
 # Rudio Javan playlist scraper
 
 Save [Radio-Javan's](https://www.radiojavan.com) playlist musics link in file using Rust lang.
 
 # Installation
 
-1- install it [[rust-lang.org](https://www.rust-lang.org/en-US/install.html)]
-2- clone it
+- install it [[rust-lang.org](https://www.rust-lang.org/en-US/install.html)]
+- clone it
 ```
 $  git clone https://github.com/ayooby/rudiojavan-playlist-link-scraper.git 
 $  cd rudiojavan-playlist-link-scraper
 ```
-3- execute it
+- execute it
 ```
 $  cd rudiojavan-playlist-link-scraper
 $  cargo run RADIO_JAVAN_PALYLIST_URL
 ```
-4- check it, `links_file.txt` if you see succeeded message.
-5- profit!
+- check it, `links_file.txt` if you see succeeded message.
+- profit!
 
 ## What the heck! I can see only links not mp3 file
 
