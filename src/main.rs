@@ -27,7 +27,8 @@ fn get_links(url: &str) {
             .next()
             .unwrap();
         let url_txt = format!("https://www.radiojavan.com{} \n", url.attr("href").unwrap());
-        links_file.write_all(url_txt.as_bytes()).expect("error on writing");
+        links_file.write_all(url_txt.as_bytes()).expect("Error on writing file");
     }
+    println!("All Done!")
 }
 
