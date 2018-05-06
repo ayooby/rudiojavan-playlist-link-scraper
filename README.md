@@ -3,6 +3,12 @@
 
 Save [Radio-Javan's](https://www.radiojavan.com) playlist musics link in a file using Rust lang.
 
+# run from compiled file:
+```
+$  git clone git@github.com:ayooby/rudiojavan-playlist-link-scraper.git
+$  ./bin/rudiojavan RADIO_JAVAN_PALYLIST_URL
+```
+
 # Installation
 
 - install it [[rust-lang.org](https://www.rust-lang.org/en-US/install.html)]
