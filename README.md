@@ -23,6 +23,8 @@ $  cargo run RADIO_JAVAN_PALYLIST_URL
 
 Yes I know, just calm your tits. wait for downloader script.
 
+*Update* [radiojavan-link-to-mp3](https://github.com/ayooby/radiojavan-link-to-mp3/)
+
 ## Do not read this.
 
 Since I have no job (April 2018) this script made only for fun and poking rust, don't judge me please.
